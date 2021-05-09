@@ -1,0 +1,11 @@
+{
+	"name": "result",
+	"description": "An implementation of Rust's Result in D",
+	"authors": ["João Lourenço"],
+	"license": "LGPL-3.0",
+	"sourcePaths": ["source"],
+	"importPaths": ["source"],
+	"targetPath": "bin",
+	"targetType": "library",
+	"versions": ["result_unittest"]
+}
